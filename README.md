@@ -1,2 +1,2 @@
 # c-cpp
- Códigos em C e C++
+ Códigos e algoritmos em C e C++
